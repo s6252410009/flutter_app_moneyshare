@@ -1,6 +1,6 @@
 # flutter_app_moneyshare
 
-A new Flutter project.
+
 A new Flutter project: Money Share
 
 ## Getting Started
